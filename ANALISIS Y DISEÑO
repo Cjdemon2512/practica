@@ -187,6 +187,24 @@
         <mxCell id="HlgqJghfTiQvdAl6Lsz4-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CLASIFICA" vertex="1">
           <mxGeometry height="30" width="80" x="1220" y="540" as="geometry" />
         </mxCell>
+        <mxCell id="XdGqvfyUI199V5O1qZ9k-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="-120" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="XdGqvfyUI199V5O1qZ9k-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;MAESTRAS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="-60" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="XdGqvfyUI199V5O1qZ9k-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="-120" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="XdGqvfyUI199V5O1qZ9k-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;MAESTRAS - TRANSACCIONAL&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="110" x="-50" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="XdGqvfyUI199V5O1qZ9k-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="30" width="45" x="-130" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="XdGqvfyUI199V5O1qZ9k-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;TRANSACCIONAL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-60" y="840" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
